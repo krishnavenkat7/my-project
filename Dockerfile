@@ -1,4 +1,4 @@
-FROM openjdk:18-jdk
+FROM openjdk:20-ea-15-slim-bullseye
 
 EXPOSE 8080
 
